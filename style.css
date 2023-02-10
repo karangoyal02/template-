@@ -1,0 +1,98 @@
+
+.navbar-nav {
+    margin-right: 0;
+}
+.carousel-image{
+   
+    width: 100%;
+    height: 80vh;
+}
+
+.about-info{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 3%;
+}
+
+.navbar-brand {
+    color: aliceblue;
+}
+.carousel-caption{
+    top: 160px !important;
+}
+.under{
+    border-bottom:2px solid red;
+}
+.image 
+{
+    border-radius: 20px 0px 0px 20px;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    margin-top:1% ;
+    height: 50px;
+    width:200px;
+}
+#services{
+    background-color: #f4f4f4;
+}
+figure img{
+    border-radius: 15px ;
+}
+.like {
+    color: #fc4311;
+}
+.Comment {
+    color: #fc4311;
+}
+#contact{
+    
+    
+    background-color: black;
+    color: white;
+    /* border-bottom: 2px solid white;
+    
+    align-content: center; */
+}
+.form-control {
+    border: none;
+    border-bottom: 1px solid #d9d9d9;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0;
+    
+ }
+    .form-control:active, .form-control:focus {
+      outline: none;
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      border-color: #000; }
+  
+   .form-control {
+    height: 30px; 
+    background-color: #000;
+    color: white;
+    border: none;
+    border-bottom:2px solid white;
+}
+.btn{
+    height: 40px;
+}
+.karan{
+    margin-top:10px;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+
+}
+.content{
+    padding: 16px;
+}
+.sticky+.content{
+    padding-top: 60px;
+}
